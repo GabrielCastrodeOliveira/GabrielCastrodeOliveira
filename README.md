@@ -1,4 +1,4 @@
-Me chamo Gabriel Castro de Oliveira e estou no primeiro período de Engenharia de Computação no CESUPA, me interesso pelas áreas de hardware, segurança da informação e automação. Meu objetivo para esse semestre é ter uma formação consistente da matérias atuais, a fim de desenvolver um aprendizado consistente que sustente meu crescimento acadêmico.
+Me chamo Gabriel Castro de Oliveira e estou no primeiro período de Engenharia de Computação no CESUPA, me interesso pelas áreas de hardware, segurança da informação e automação. Meu objetivo para esse semestre é ter uma formação consistente das matérias atuais, a fim de desenvolver um aprendizado consistente que sustente meu crescimento acadêmico.
 
 <!--
 **GabrielCastrodeOliveira/GabrielCastrodeOliveira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
